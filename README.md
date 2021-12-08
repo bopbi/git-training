@@ -2,6 +2,6 @@
 
 for training only so this is main
 
-Wow its great to demo a git
-
 looks cool
+for training only if it looks good
+now
