@@ -2,6 +2,4 @@
 
 for training only so this is main
 
-looks cool
-for training only if it looks good
-now
+i am thinking to change it
